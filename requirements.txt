@@ -1,0 +1,18 @@
+# Web framework
+fastapi
+uvicorn[standard]
+
+# Celery and Redis
+# celery
+# redis
+
+# YOLOv8 and computer vision dependencies
+ultralytics
+opencv-python-headless
+numpy
+
+# Optional: Pydantic for schema validation (already included with FastAPI)
+# pydantic
+
+# Optional: For logging and parsing
+# python-multipart  # needed for file upload handling
